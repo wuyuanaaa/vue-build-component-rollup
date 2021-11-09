@@ -1,7 +1,7 @@
 {
   "name": "@ycb/vue-view-loading",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.5",
+  "description": "页面根据状态动态管理组件",
   "main": "dist/vue-view-loading.umd.js",
   "module": "dist/vue-view-loading.es.js",
   "scripts": {

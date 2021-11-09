@@ -34,7 +34,7 @@ export default {
       globals
     },
     {
-      name: 'vueQrCode',
+      name,
       file: 'dist/vue-view-loading.es.min.js',
       format: 'es',
       globals,

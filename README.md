@@ -2,6 +2,11 @@
 
 > 页面状态管理组件
 
+## 安装
+
+```
+npm install @ycb/vue-view-loading --registry http://npm.ycb51.cn
+```
 
 ## 使用
 
@@ -76,3 +81,19 @@ this.$refs.ViewLoading.reload()
 - fail
 
   异常效果，fail 状态渲染
+
+## 调试
+
+### 打包
+
+```
+npm run build
+```
+
+### 发布
+
+> 必需升级版本号
+
+```
+npm publish --registry http://npm.ycb51.cn
+```
